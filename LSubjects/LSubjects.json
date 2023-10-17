@@ -1,0 +1,60 @@
+ {
+	"users":
+	[
+		{
+			"name": "admin",
+			"pass": "1234"
+		}
+	],
+	"subjects":
+	[
+		{
+			"id": 1,
+			"name": "Seguretat en les TIC",
+			"credits": 4,
+			"optional": true
+		},
+		{
+			"id": 4,
+			"name": "Mineria de dades",
+			"credits": 12,
+			"optional": false
+		},
+		{
+			"id": 17,
+			"name": "Bases de dades",
+			"credits": 8,
+			"optional": true
+		},
+		{
+			"id": 39,
+			"name": "Compus",
+			"credits": 69,
+			"optional": false
+		},
+		{
+			"id": 42,
+			"name": "Sistemes operatius",
+			"credits": 20,
+			"optional": false
+		},
+		{
+			"id": 73,
+			"name": "Xarxes d'àrea local",
+			"credits": 2,
+			"optional": true
+		},
+		{
+			"id": 69,
+			"name": "ASO",
+			"credits": 6,
+			"optional": false
+		},
+		{
+			"id": 57,
+			"name": "SOA",
+			"credits": 3,
+			"optional": false
+		}
+	]
+}
