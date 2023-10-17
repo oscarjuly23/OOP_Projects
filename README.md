@@ -1,5 +1,5 @@
 # OOP_Projects
-Introduction to Object-oriented programming.
+Object-oriented programming first Projects.
 
 ## Descripción
 ¡Bienvenido a mi repositorio dedicado a la Programación Orientada a Objetos (OOP)! En este espacio, explorarás uno de los paradigmas de programación más importantes y relevantes en el mundo del desarrollo de software. La Programación Orientada a Objetos no solo es una forma efectiva de escribir código, sino que también es fundamental para abordar problemas complejos y crear soluciones informáticas sólidas y escalables.
