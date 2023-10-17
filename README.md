@@ -19,9 +19,6 @@ Le damos importancia a probar y validar tu software. Usanmos pruebas unitarias, 
 
 ## Proyectos
 
-### [Ejercicios](https://github.com/oscarjuly23/OOP_Projects/tree/main/Ejercicios)
-Conjunto de ejercicios básicos de Java. Estos ejercicios abordan temas como la escritura de código, el uso de constantes, variables y tipos de datos, así como la implementación de sentencias de control y estructuras de programación. 
-
 ### [LSubjects](https://github.com/oscarjuly23/OOP_Projects/tree/main/LSubjects)
 El programa LSubjects tiene como objetivo facilitar a los estudiantes la búsqueda de las asignaturas que están cursando actualmente. Para ello, ofrece una interfaz gráfica con dos ventanas, una para el inicio de session y la otra como ventana principal que contiene las asignaturas.
 
