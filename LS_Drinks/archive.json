@@ -1,0 +1,439 @@
+{
+	"alcohols":
+	[
+		{
+			"nom": "Barceló",
+			"graduation": 37.5,
+			"procedence": "Dominican Republic",
+			"year": 1930,
+			"type": 1,
+			"founders": [{
+					"name": "Julián Barceló",
+					"born": 1897
+				},
+				{
+					"name": "Miguel Barceló",
+					"born": 1902
+				}
+			],
+			"combinations": [1, 2, 5]
+		},
+		{
+			"nom": "Brugal",
+			"graduation": 39.5,
+			"procedence": "Dominican Republic",
+			"year": 1888,
+			"type": 1,
+			"founders": [
+				{
+					"name": "Andrés Brugal Montaner",
+					"born": 1864
+				}
+			],
+			"combinations": [1, 2, 5]
+		},
+		{
+			"nom": "Smirnoff",
+			"graduation": 37,
+			"procedence": "Rusia",
+			"year": 1864,
+			"type": 4,
+			"founders": [{
+				"name": "Piotr Arsenieyevich",
+				"born": 1830
+			}],
+			"combinations": [2, 3, 5]
+		},
+		{
+			"nom": "Seagram",
+			"graduation": 40,
+			"procedence": "Canada",
+			"year": 1857,
+			"type": 2,
+			"founders": [{
+				"name": "Joseph E. Seagram",
+				"born": 1841
+			}],
+			"combinations": [2, 3, 4]
+		},
+		{
+			"nom": "Baileys Irish Cream",
+			"graduation": 17,
+			"procedence": "Irlanda",
+			"year": 1974,
+			"type": 5,
+			"founders": [{
+				"name": "R. A. Bailey",
+				"born": 1940
+			}],
+			"combinations": []
+		},
+		{
+			"nom": "Martini",
+			"graduation": 19.5,
+			"procedence": "Estados Unidos",
+			"year": 1910,
+			"type": 5,
+			"founders": [{
+				"name": "Sr Martini",
+				"born": 1875
+			}],
+			"combinations": []
+		},
+		{
+			"nom": "Tanqueray",
+			"graduation": 47.3,
+			"procedence": "Reino Unido",
+			"year": 1830,
+			"type": 2,
+			"founders": [
+			  {
+					"name": "Charles Tanqueray",
+					"born": 1897
+				}
+			],
+			"combinations": [2, 3]
+		},
+		{
+			"nom": "Cacique",
+			"graduation": 47.3,
+			"procedence": "Venezuela",
+			"year": 1961,
+			"type": 1,
+			"founders": [{
+					"name": "Gustavo Vegas Leon",
+					"born": 1913
+				}],
+			"combinations": [1, 2, 5]
+		},
+		{
+			"nom": "Flor de Caña",
+			"graduation": 40,
+			"procedence": "Nicaragua",
+			"year": 1890,
+			"type": 1,
+			"founders": [{
+					"name": "Alfredo Francisco Pellas",
+					"born": 1829
+				}],
+			"combinations": [1, 2]
+		},
+		{
+			"nom": "Matusalem",
+			"graduation": 38,
+			"procedence": "Cuba",
+			"year": 1872,
+			"type": 1,
+			"founders": [
+				{
+					"name": "Eduardo Camp",
+					"born": 1848
+				}
+			],
+			"combinations": [1, 2]
+		},
+		{
+			"nom": "Havana",
+			"graduation": 40,
+			"procedence": "Cuba",
+			"year": 1878,
+			"type": 1,
+			"founders": [
+				{
+					"name": "José Arechabala",
+					"born": 1847
+				}
+			],
+			"combinations": [1, 2, 5]
+		},
+		{
+			"nom": "Bulldog",
+			"graduation": 39,
+			"procedence": "United States",
+			"year": 2006,
+			"type": 2,
+			"founders": [
+				{
+					"name": "Anshuman Vohra",
+					"born": 1969
+				}
+			],
+			"combinations": [2, 3, 4]
+		},
+		{
+			"nom": "Puerto de Indias",
+			"graduation": 36.5,
+			"procedence": "Spain",
+			"year": 1978,
+			"type": 2,
+			"founders": [
+				{
+					"name": "José Antonio Rodriguez",
+					"born": 1955
+				}
+			],
+			"combinations": [2, 3]
+		},
+		{
+			"nom": "Larios",
+			"graduation": 35.5,
+			"procedence": "Spain",
+			"year": 1866,
+			"type": 2,
+			"founders": [
+				{
+					"name": "Fernando Jiménez",
+					"born": 1834
+				}
+			],
+			"combinations": [2, 3, 5]
+		},
+		{
+			"nom": "Hendrick's",
+			"graduation": 37,
+			"procedence": "Reino Unido",
+			"year": 1860,
+			"type": 2,
+			"founders": [
+				{
+					"name": "William Grant",
+					"born": 1835
+				}
+			],
+			"combinations": [2, 3, 5]
+		},
+		{
+			"nom": "Mombasa Club",
+			"graduation": 38.5,
+			"procedence": "Mombasa",
+			"year": 1885,
+			"type": 2,
+			"founders": [
+				{
+					"name": "British East Protectorate",
+					"born": 1875
+				}
+			],
+			"combinations": [2, 3]
+		},
+		{
+			"nom": "Master's",
+			"graduation": 40,
+			"procedence": "Spain",
+			"year": 1835,
+			"type": 2,
+			"founders": [
+				{
+					"name": "Giró Ribot",
+					"born": 1809
+				}
+			],
+			"combinations": [2, 5]
+		},
+		{
+			"nom": "Gilpin's",
+			"graduation": 35.5,
+			"procedence": "Regne Unit",
+			"year": 1843,
+			"type": 2,
+			"founders": [
+				{
+					"name": "Michael Green",
+					"born": 1802
+				}
+			],
+			"combinations": [2, 5]
+		},
+		{
+			"nom": "Bombay Saphire",
+			"graduation": 40.5,
+			"procedence": "Regne Unit",
+			"year": 1987,
+			"type": 2,
+			"founders": [
+				{
+					"name": "Bryan Fuller",
+					"born": 1943
+				}
+			],
+			"combinations": [2, 5]
+		},
+		{
+			"nom": "Lark",
+			"graduation": 41.5,
+			"procedence": "Australia",
+			"year": 1935,
+			"type": 2,
+			"founders": [
+				{
+					"name": "Hunter Harrison",
+					"born": 1892
+				}
+			],
+			"combinations": [2, 5]
+		},
+		{
+			"nom": "The Duke",
+			"graduation": 45,
+			"procedence": "Germany",
+			"year": 1898,
+			"type": 2,
+			"founders": [
+				{
+					"name": "Leslie Wexner",
+					"born": 1856
+				}
+			],
+			"combinations": [2, 5]
+		},
+		{
+			"nom": "Diplomé",
+			"graduation": 44,
+			"procedence": "Francia",
+			"year": 1943,
+			"type": 2,
+			"founders": [
+				{
+					"name": "Jean-Dominique Dassault",
+					"born": 1905
+				}
+			],
+			"combinations": [2, 5]
+		},
+		{
+			"nom": "Brooklyn",
+			"graduation": 41,
+			"procedence": "United States",
+			"year": 1964,
+			"type": 2,
+			"founders": [
+				{
+					"name": "Warren Smith",
+					"born": 1937
+				}
+			],
+			"combinations": [2, 5]
+		},
+		{
+			"nom": "Bonthia Bay",
+			"graduation": 38.7,
+			"procedence": "Finlandia",
+			"year": 1913,
+			"type": 2,
+			"founders": [
+				{
+					"name": "Garrett Schwarz",
+					"born": 1881
+				}
+			],
+			"combinations": [2, 5]
+		},
+		{
+			"nom": "Rives",
+			"graduation": 40.8,
+			"procedence": "Spain",
+			"year": 1880,
+			"type": 2,
+			"founders": [
+				{
+					"name": "Augusto Haupold",
+					"born": 1832
+				}
+			],
+			"combinations": [2, 5]
+		},
+		{
+			"nom": "Dingle",
+			"graduation": 35.5,
+			"procedence": "Ireland",
+			"year": 1955,
+			"type": 2,
+			"founders": [
+				{
+					"name": "Drew Camp",
+					"born": 1909
+				}
+			],
+			"combinations": [2, 5]
+		},
+		{
+			"nom": "Ballantine's",
+			"graduation": 40,
+			"procedence": "Escocia",
+			"year": 1827,
+			"type": 3,
+			"founders": [
+				{
+					"name": "George Ballantine",
+					"born": 1797
+				}
+			],
+			"combinations": [2, 5]
+		},
+		{
+			"nom": "Beefeater",
+			"graduation": 38.4,
+			"procedence": "Regne Unit",
+			"year": 1876,
+			"type": 2,
+			"founders": [
+				{
+					"name": "James Burriugh",
+					"born": 1834
+				}
+			],
+			"combinations": [2, 5]
+		}
+	],
+	"types":
+	[
+		{
+			"id": 2,
+			"name": "Gin",
+			"description": "Gin is one of the broadest categories of spirits, all of various origins, styles, and flavour profiles, that revolve around juniper as a common ingredient."
+		},
+		{
+			"id": 5,
+			"name": "Liquor",
+			"description": "Liquor is an alcoholic drink produced by distillation of grains, fruit, or vegetables that have already gone through alcoholic fermentation."
+		},
+		{
+			"id": 4,
+			"name": "Vodka",
+			"description": "Vodka is a clear distilled alcoholic beverage with different varieties originating in Poland and Russia."
+		},
+		{
+			"id": 1, 
+			"name": "Rum",
+			"description": "Rum is a distilled alcoholic drink made by fermenting then distilling sugarcane molasses or sugarcane juice."
+		},
+		{
+			"id": 3,
+			"name": "Whisky",
+			"description": "Whisky is a type of distilled alcoholic beverage made from fermented grain mash."
+		}
+	],
+	"mixers":
+	[
+		{
+			"id": 1,
+			"name": "Cola"
+		},
+		{
+			"id": 3,
+			"name": "Orange"
+		},
+		{
+			"id": 4,
+			"name": "Juice"
+		},
+		{
+			"id": 2,
+			"name": "Lemon"
+		},
+		{
+			"id": 5,
+			"name": "Tonic"
+		}
+	]
+}
