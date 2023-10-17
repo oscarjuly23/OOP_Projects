@@ -18,7 +18,8 @@ No se trata solo de escribir código, sino de seguir un proceso. Usamos metodolo
 Le damos importancia a probar y validar tu software. Usanmos pruebas unitarias, pruebas de integración y otras estrategias para garantizar que que el código funciona como se espera.
 
 ## Proyectos
-
+### [LS Drinks](https://github.com/oscarjuly23/OOP_Projects/tree/main/LS_Drinks)
+Programa con el propósito de realizar consultas sobre un archivo JSON que contiene información sobre bebidas alcohólicas. El objetivo de este proyecto es facilitar la predicción de la cantidad de bebidas necesarias para el evento "La Salle Fest".
 ### [LSubjects](https://github.com/oscarjuly23/OOP_Projects/tree/main/LSubjects)
 El programa LSubjects tiene como objetivo facilitar a los estudiantes la búsqueda de las asignaturas que están cursando actualmente. Para ello, ofrece una interfaz gráfica con dos ventanas, una para el inicio de session y la otra como ventana principal que contiene las asignaturas.
 
