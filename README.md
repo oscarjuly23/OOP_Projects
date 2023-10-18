@@ -29,5 +29,5 @@ Este programa tiene como objetivo la creación de banderas para celebrar los Jue
 ### [Json TMB](https://github.com/oscarjuly23/OOP_Projects/tree/main/JsonTMB)
 Programa que resuelve problemas en la aplicación web de TMB, utilizando un archivo JSON y la API de TMB para acceder a datos sobre lugares emblemáticos y transporte público en Barcelona.
 
-### [Minder](https://github.com/oscarjuly23/OOP_Projects/tree/main/Minder)
+### [Minder](https://github.com/oscarjuly23/MINDER)
 Minder es una aplicación que conecta estudiantes para colaborar en trabajos y prácticas. Los usuarios registran sus datos, crean perfiles, buscan compañeros con los mismos intereses en programación y pueden hacer "matches" para colaborar en proyectos. La aplicación también proporciona estadísticas de actividad.
