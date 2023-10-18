@@ -1,8 +1,0 @@
-{
-  "port": 2346,
-  "dbIp": "localhost",
-  "dbName": "minder",
-  "dbUser": "root",
-  "dbPass": "",
-  "dbPort": 3306
-}
