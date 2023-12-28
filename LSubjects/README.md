@@ -21,5 +21,6 @@ La ejecución del programa finaliza cuando se cierra cualquiera de las dos venta
 Este proyecto es una herramienta útil para que los estudiantes gestionen y personalicen sus asignaturas de manera efectiva y eficiente en el contexto de la asignatura de DPOO.
 
 ##
-
-![image](https://github.com/oscarjuly23/OOP_Projects/assets/39187459/3a188511-61f0-459f-a259-f47071b68c45)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/oscarjuly23/OOP_Projects/assets/39187459/3a188511-61f0-459f-a259-f47071b68c45">
+</p>
