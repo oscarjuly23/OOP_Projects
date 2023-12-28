@@ -19,4 +19,3 @@ El programa generará un ranking de los tres mezcladores cuya graduación promed
 El programa cargará inicialmente los datos contenidos en el archivo JSON llamado "C2H5OH.json" y mostrará un menú con las opciones enumeradas anteriormente. El usuario podrá seleccionar una opción y el programa responderá en consecuencia. El usuario puede continuar realizando consultas hasta que decida salir (opción 6).
 El proyecto se ha desarrollado en el entorno de programación IntelliJ.
 Este proyecto tiene como objetivo facilitar la predicción de las bebidas necesarias para un evento y proporcionar información relevante sobre las bebidas alcohólicas en el archivo JSON proporcionado.
-![image](https://github.com/oscarjuly23/OOP_Projects/assets/39187459/0459e2ec-f467-4d17-a632-0cefb57350e5)
