@@ -26,7 +26,7 @@ El programa LSubjects tiene como objetivo facilitar a los estudiantes la búsque
 ### [Olympic Threads](https://github.com/oscarjuly23/OOP_Projects/tree/main/OlympicThreads)
 Este programa tiene como objetivo la creación de banderas para celebrar los Juegos Olímpicos 2020, permitiendo a los usuarios personalizar el tamaño de la bandera al elegir una altura y anchura de una lista previamente definida.
 
-### [Json TMB](https://github.com/oscarjuly23/OOP_Projects/tree/main/JsonTMB)
+### [Json TMB](https://github.com/oscarjuly23/JsonTMB)
 Programa que resuelve problemas en la aplicación web de TMB, utilizando un archivo JSON y la API de TMB para acceder a datos sobre lugares emblemáticos y transporte público en Barcelona.
 
 ### [Minder](https://github.com/oscarjuly23/MINDER)
